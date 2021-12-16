@@ -9,7 +9,7 @@ Install [mmcv](https://github.com/open-mmlab/mmcv) and [mmdetecion](https://gith
 
 ## Dataset & annotation & config
 Unzip the files in mmdetection
-- [Download](https://drive.google.com/file/d/1FOYGlyNI0TMe7Koom28pb8L-GOx5mS-n/view?usp=sharing)
+- [Download](https://drive.google.com/file/d/1HrEgaGQkaFVHMvN9WjcjN_jXE5DxXYlg/view?usp=sharing)
 
 ## Training
 
